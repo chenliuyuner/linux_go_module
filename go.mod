@@ -1,4 +1,4 @@
-module gorm_mybatis
+module github.com/chenliuyuner/linux_go_module
 
 go 1.24.3
 
